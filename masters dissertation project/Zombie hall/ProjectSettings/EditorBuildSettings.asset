@@ -4,5 +4,74 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 51fabe8c8dcceae42991b954e0d2d5c7
+  - enabled: 1
+    path: Assets/Scenes/Choose weapon.unity
+    guid: 70accf35e2a7a5d4eb42dad142bdf1c3
+  - enabled: 1
+    path: Assets/Scenes/Pistol levels/Tutorial.unity
+    guid: a97b55d2a95e8a84e8908b8d5bfb87f0
+  - enabled: 1
+    path: Assets/Scenes/Pistol levels/Level 1.unity
+    guid: d4c239417d0ffca4da07363e2a1e5d2f
+  - enabled: 1
+    path: Assets/Scenes/Pistol levels/Level 2.unity
+    guid: 42fd4e9eda12aa6409a3efd3e2cd9e06
+  - enabled: 1
+    path: Assets/Scenes/Pistol levels/Level 3.unity
+    guid: 29f952f3d533f9b49a727b3239f2a41b
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: a0e2c249e0237964ca12228e512ea71c
+  - enabled: 1
+    path: Assets/Scenes/SMG levels/Tutorial.unity
+    guid: c3537a7d835db784488f8999d58e5ca3
+  - enabled: 1
+    path: Assets/Scenes/SMG levels/Level 1.unity
+    guid: 02d8553fed97b054da16a45832e7149c
+  - enabled: 1
+    path: Assets/Scenes/SMG levels/Level 2.unity
+    guid: d5ace3c512a3b814b9d0b1f01563a93c
+  - enabled: 1
+    path: Assets/Scenes/SMG levels/Level 3.unity
+    guid: e6961705299693a4c8a1024a691bb10f
+  - enabled: 1
+    path: Assets/Scenes/AR levels/Tutorial.unity
+    guid: 9f7988ea375452d4e8f371b28abcd97b
+  - enabled: 1
+    path: Assets/Scenes/AR levels/Level 1.unity
+    guid: 938d97117a12afa46969289762a11bac
+  - enabled: 1
+    path: Assets/Scenes/AR levels/Level 2.unity
+    guid: 393296690d4b25345a775c97b0ecce7b
+  - enabled: 1
+    path: Assets/Scenes/AR levels/Level 3.unity
+    guid: 010b8d12408b21c409761c1aafdac556
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}

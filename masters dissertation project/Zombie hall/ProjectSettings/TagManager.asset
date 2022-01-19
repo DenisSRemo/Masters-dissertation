@@ -8,6 +8,17 @@ TagManager:
   - ExitDoor
   - Zombie
   - Bullet
+  - Door
+  - PickUpGrenade
+  - PickUpAmmo
+  - Objective
+  - Rock
+  - Zombie2
+  - Instakill
+  - headzombie
+  - bodyzombie
+  - armszombie
+  - legszombie
   layers:
   - Default
   - TransparentFX
@@ -18,13 +29,13 @@ TagManager:
   - 
   - 
   - ground
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Obstacle
+  - Action
+  - Zombie
+  - Door
+  - Rocks
+  - Zombie2
   - 
   - 
   - 
